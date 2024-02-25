@@ -10,5 +10,5 @@ output = list of live ips on the network you are scanning
 
 Port_Scanner:
 input (subnet, netmask)
-output = (open IP's + open ports)
+output = (open IP's + open ports
 
