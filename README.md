@@ -12,3 +12,7 @@ Port_Scanner:
 input (subnet, netmask)
 output = (open IP's + open ports)
 
+Service_Fingerprint:
+input (IP, port numbers)
+output = service banner & version numbers
+
