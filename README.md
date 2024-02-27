@@ -16,7 +16,7 @@ Service_Fingerprint:
 input (IP, port numbers)
 output = service banner & version numbers
 
-OS_Fingerprint
+OS_Fingerprint:
 input (IP, port numbers)
 output = service banner & version numbers, saves data to scan_results.csv
 
