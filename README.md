@@ -23,5 +23,5 @@ input (IP, port numbers)
 output = service banner & version numbers, saves data to scan_results.csv
 
 
-
+Will be consistantly updating this repo.
 
