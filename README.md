@@ -23,7 +23,7 @@ input (IP, port numbers)
 output = service banner & version numbers, saves data to scan_results.csv
 
 KeyLogger:
-replace "C:/path/to/logger" with your own file path where you will keep the key logger. This is also where log files will be stored. Note: Windows defender will try to delete this file if you run it, so be sure to set up an exclusion!
+replace "C:/path/to/logger" with your own file path where you will keep the key logger. This is also where log files will be created and stored. Note: Windows defender will try to delete this file if you run it, so be sure to set up an exclusion!
 
 
 
